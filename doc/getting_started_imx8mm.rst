@@ -34,7 +34,7 @@ Hardware setup
 
 #. Connect the LED and the push button to the i.MX 8M Mini, following the schematic on the left. For reference, the physical setup can be seen on the right side:
     
-    .. image:: illustrations/iMX8MMHwSetup.png
+   .. image:: illustrations/iMX8MMHwSetup.png
 
 #. Connect an ethernet cable between the i.MX 8M Mini EVK and the Windows PC.
 
